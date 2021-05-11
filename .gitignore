@@ -30,5 +30,12 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 /tests/tests/
 /tests/results/
 
+#-------------------------
+# Environment Files
+#-------------------------
+.env.development
+.env.testing
+.env.production
+
 # Assets Files
 /assets/template
