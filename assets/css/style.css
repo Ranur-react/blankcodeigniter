@@ -12,3 +12,31 @@
 .user-profil {
 	margin: 5px 0;
 }
+
+/* Modal */
+.modal-content {
+	border-radius: 5px;
+}
+
+.modal-header {
+	background: #f3f4f5;
+	border-bottom: 1px solid #dcdfe1;
+	border-top-right-radius: .3rem;
+	border-top-left-radius: .3rem;
+}
+
+.modal-footer {
+	background: #f3f4f5;
+	border-top: 1px solid #dcdfe1;
+	border-bottom-right-radius: .3rem;
+	border-bottom-left-radius: .3rem;
+}
+
+/* End Modal */
+
+/* Text Color */
+.text--red {
+	color: rgb(220, 20, 60);
+}
+
+/* End Text Color */
