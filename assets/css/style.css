@@ -1,0 +1,42 @@
+.main-header .navbar .navbar-custom-menu .navbar-nav>li>a,
+.main-header .navbar .navbar-collapse .navbar-nav>li>a {
+	border-right: 1px solid rgba(0, 0, 0, .09);
+}
+
+.dropdown-menu>.active>a,
+.dropdown-menu>.active>a:focus,
+.dropdown-menu>.active>a:hover {
+	background-color: #777;
+}
+
+.user-profil {
+	margin: 5px 0;
+}
+
+/* Modal */
+.modal-content {
+	border-radius: 5px;
+}
+
+.modal-header {
+	background: #f3f4f5;
+	border-bottom: 1px solid #dcdfe1;
+	border-top-right-radius: .3rem;
+	border-top-left-radius: .3rem;
+}
+
+.modal-footer {
+	background: #f3f4f5;
+	border-top: 1px solid #dcdfe1;
+	border-bottom-right-radius: .3rem;
+	border-bottom-left-radius: .3rem;
+}
+
+/* End Modal */
+
+/* Text Color */
+.text--red {
+	color: rgb(220, 20, 60);
+}
+
+/* End Text Color */
