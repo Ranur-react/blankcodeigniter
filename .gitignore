@@ -38,4 +38,5 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 .env.production
 
 # Assets Files
+/assets/img
 /assets/template
