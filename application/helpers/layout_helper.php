@@ -1,11 +1,18 @@
 <?php if (!defined('BASEPATH')) exit('No direct script access allowed');
 
-if (!function_exists('assets')) {
-    function assets()
+if (!function_exists('title')) {
+    function title()
     {
-        $link = base_url() . 'assets/template/';
-        return $link;
+        
+        return 'TOYOTA';
     }
+}
+if (!function_exists('assets')) {
+	function assets()
+	{
+		$link = base_url() . 'assets/';
+		return $link;
+	}
 }
 if (!function_exists('assets_img')) {
     function assets_img()
